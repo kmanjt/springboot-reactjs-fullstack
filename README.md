@@ -9,5 +9,4 @@ Amazon AWS Java SDK
 NodeJS / React Dependencies:
 
 Axios
-
 React Dropzone
