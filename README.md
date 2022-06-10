@@ -1,12 +1,18 @@
-# springboot-reactjs-fullstack
+
+# Springboot ReactJS AWS Fullstack
+
 Fullstack Springboot web app using ReactJS frontend and AWS S3 database
 
-Java Dependencies:
-Springboot
-Springboot Web
+
+
+
+## Dependencies
+#### Java Dependencies: 
+Springboot -
+Springboot Web -
 Amazon AWS Java SDK
 
-NodeJS / React Dependencies:
+#### NodeJS / React Dependencies:
 
-Axios
+Axios -
 React Dropzone
