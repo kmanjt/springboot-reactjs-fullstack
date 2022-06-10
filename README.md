@@ -6,6 +6,8 @@ Springboot
 Springboot Web
 Amazon AWS Java SDK
 
-NodeJS / React Dependencies:/n
-Axios/n
-React Dropzone/n
+NodeJS / React Dependencies:
+
+Axios
+
+React Dropzone
