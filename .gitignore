@@ -1,9 +1,10 @@
 HELP.md
 target/
-src/main/java/config/
+src/main/java/config/AmazonConfig.java
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+AmazonConfig.java
 
 ### STS ###
 .apt_generated
